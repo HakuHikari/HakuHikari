@@ -4,26 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>BIO</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    .container {
-      max-width: 600px;
-      margin: auto;
-    }
-    h1 {
-      text-align: center;
-    }
-    .bio {
-      background: #f4f4f4;
-      padding: 20px;
-      border-radius: 5px;
-      margin-top: 20px;
-    }
-  </style>
 </head>
 <body>
   <div class="container">
