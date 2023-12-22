@@ -1,4 +1,4 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620932075" width="700" height="400">
+<img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620932075" width="500" height="300">
 
 # BIO
 ## Aditya Dwi Cahyo
