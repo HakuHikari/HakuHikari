@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  ![Wallpaper([https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Logo_GitHub.svg/1200px-Logo_GitHub.svg.png](https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075))
+ ![Wallpaper](https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620932075)
   <div class="container">
     <h1>BIO</h1>
     <div class="bio">
