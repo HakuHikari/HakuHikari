@@ -1,8 +1,14 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620932075" width="500" height="300">
+<!-- Header with Image -->
+<p align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620932075" width="700" height="400">
+</p>
 
+<!-- Bio Section -->
 # BIO
 ## Aditya Dwi Cahyo
 
-Selamat datang di repositori saya! Saya adalah seorang pengembang perangkat lunak yang tertarik pada berbagai teknologi, terutama dalam pembuatan aplikasi web dan pengembangan mobile.
+Selamat datang di repositori saya! Saya adalah seorang mahasiswa di Politeknik Negeri Sriwijaya, sedang menempuh studi dalam bidang Manajemen Informatika. Saya tertarik pada pengembangan aplikasi web dan mobile serta senang bereksperimen dengan teknologi terkini.
 
-Silakan jelajahi repositori saya untuk melihat proyek-proyek menarik yang telah saya kerjakan.
+Saya aktif dalam belajar dan mengembangkan proyek-proyek yang berkaitan dengan pemrograman dan pengembangan perangkat lunak. Jangan ragu untuk menjelajahi repositori saya dan melihat proyek-proyek menarik yang telah saya kerjakan.
+
+Jika Anda memiliki pertanyaan atau ingin berkolaborasi, jangan ragu untuk menghubungi saya. Terima kasih!
