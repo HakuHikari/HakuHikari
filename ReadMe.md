@@ -1,6 +1,6 @@
 <!-- Header with Image -->
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620932075" width="700" height="400">
+<img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620932075" style="max-width:100%; height:auto;" alt="Responsive Image">
 </p>
 
 <!-- Bio Section -->
