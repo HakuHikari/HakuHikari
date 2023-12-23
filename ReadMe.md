@@ -7,7 +7,7 @@
 # BIO
 ## Aditya Dwi Cahyo
 
-Selamat datang di repositori saya! Saya adalah seorang mahasiswa di Politeknik Negeri Sriwijaya, sedang menempuh studi dalam bidang Manajemen Informatika. Saya tertarik pada pengembangan aplikasi web dan mobile serta senang bereksperimen dengan teknologi terkini.
+Selamat datang di repositori saya! Saya adalah seorang mahasiswa di Politeknik Negeri Sriwijaya, sedang menempuh studi dalam bidang Manajemen Informatika. Saya tertarik pada pengembangan web design dan mobile serta senang bereksperimen dengan teknologi terkini.
 
 Saya aktif dalam belajar dan mengembangkan proyek-proyek yang berkaitan dengan pemrograman dan pengembangan perangkat lunak. Jangan ragu untuk menjelajahi repositori saya dan melihat proyek-proyek menarik yang telah saya kerjakan.
 
